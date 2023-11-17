@@ -7,8 +7,6 @@
   *   - if you want to comment and uncomment other code while running one
   */
  
-
- 
 //create h1 tag & add text
 const heading = React.createElement("h1",{id:"heading",xyz:"hello",style:{color:"blue"}},"Hello world in react");
 console.log(heading);
@@ -17,7 +15,7 @@ console.log(heading.props.xyz);
 const root = ReactDOM.createRoot(document.getElementById("root"));
 // render h1 tag using the root element
 root.render(heading);
-console.log("root rendered");
+
 
 
 /***********************************************************************************************************************************/ 

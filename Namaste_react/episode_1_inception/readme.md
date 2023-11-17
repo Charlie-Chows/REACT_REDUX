@@ -2,7 +2,7 @@
 
  - Hello world in HTML
  - Hello world in JavaScript
- - CDN links to html file
+ - CDN links in html file
  - Hello world in React (old fashioned way)
  - create App.js 
  - move all  react code in script tag from index.html to App.js
