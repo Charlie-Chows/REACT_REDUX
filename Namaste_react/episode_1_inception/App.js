@@ -1,7 +1,7 @@
  /** 
   *  There are 3 parts of code each one have unique purpose 
-  *   - first code take style , html , custom attributes 
-  *   - second code render children
+  *   - first code take html tag, style || custom attributes , text .
+  *   - second code render nested children
   *   - third code render siblings using array
   * 
   *   - if you want to comment and uncomment other code while running one
@@ -27,7 +27,7 @@ root.render(heading);
  *    </div>
  * </div>
  * 
- * ReactEkement(object) => HTML (Browser Understands)
+ * ReactElement(object) => HTML (Browser Understands)
  */
 
 // code to build above hierarchy
