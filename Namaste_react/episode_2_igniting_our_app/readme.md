@@ -1,7 +1,24 @@
 # Episode 2 Igniting Our App Journal
 
- - HMR 
- - parcel cache 
- - 
-
- 
+ - Github setup
+ - push our code into github repository
+ - NPM doesn't stands for Node Package Manager
+ - configure NPM (npm init)
+ - what is package.json ?
+ - Usage of Bundler (webpack , parcel , vite)
+ - installation of parcel as dev dependency ( npm install -D parcel )
+ - Types of dependencies 
+    - Dev dependency
+    - Normal dependency
+ - caret ( ^ ) vs tilde ( ~ )
+ - package.json vs package-lock.json
+ - Node Modules
+ - Transitive dependency
+ - add .gitignore file
+ - npm vs npx
+ - import react , react dom
+ - what is type="module" ? why do we need it ? Bowser script erorr
+ - react-dom vs react-dom/client
+ - parcel-cache and dist 
+ - local server ==> git ==> server  
+ - browsers list 
