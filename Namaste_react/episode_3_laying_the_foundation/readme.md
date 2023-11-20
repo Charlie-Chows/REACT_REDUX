@@ -6,4 +6,3 @@
  - Code flow of JSX
  - How JSX works in background
  - Babel role in jsx code conversion
- - 
