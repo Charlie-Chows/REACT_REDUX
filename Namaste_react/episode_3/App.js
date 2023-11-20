@@ -7,7 +7,4 @@ const jsxHeading = <h1 id="JSXHeading">JSX Heading</h1>;
 console.log(jsxHeading);
 console.log(reactHeading);
 
-console.log(jsxHeading);
-console.log(reactHeading);console.log(jsxHeading);
-console.log(reactHeading);
 
