@@ -32,3 +32,17 @@
                     - ETA
                     - Food items
                     - Rating
+                    - cost for two
+                    - Added CSS
+        - Inline Styling
+        - Props Hardcoded
+        - Props Destructure
+        - Props Destructure on fly
+        - Config driven UI
+        - Passing props using Object
+        - Desstructure method if different hierarchy
+        - Passing props from Array List 
+        - map functionality to iterate restaurant cards
+
+
+            
