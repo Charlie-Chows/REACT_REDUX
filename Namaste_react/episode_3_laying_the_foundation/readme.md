@@ -15,5 +15,5 @@
  - calling one component inside of another component
  - JavaScript code inside components using JSX using { JS code syntax }
  - JSX provide security protection from injection attacks (cross site scripts)
- - ways to render functional components
+ - Ways to render functional components
 
