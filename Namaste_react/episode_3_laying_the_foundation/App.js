@@ -1,3 +1,5 @@
+
+
 import React from "react";
 import  ReactDOM  from "react-dom/client";
 
@@ -104,7 +106,4 @@ const ChildComponent = ()=>{
 const root = ReactDOM.createRoot(document.getElementById("root"));
 //call the any component , each component plays its own role here
 root.render(<NumberComponent/>);
-
-
-
 
