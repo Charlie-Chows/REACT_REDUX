@@ -15,9 +15,11 @@ console.log(heading.props.xyz);
 const root = ReactDOM.createRoot(document.getElementById("root"));
 // render h1 tag using the root element
 root.render(heading);
-
-
-
+/* 
+const parent = React.createElement("div",{id: "parent"},React.createElement("div",{className: "title"},[React.createElement("h1",{},"I am H1 tag"),React.createElement("h2",{},"I am H2 tag"),React.createElement("h3",{},"I am H3 tag")]));
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(parent);
+ */
 /***********************************************************************************************************************************/ 
 
 /**
