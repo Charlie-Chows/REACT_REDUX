@@ -1,3 +1,9 @@
+/**
+ * TASK 2 :: CREATE HEADER COMPONENT AND ADD 
+ *             - LOGO
+ *             - SEARCH BAR
+ *             - USER ICON
+ */
 
 import React from "react";
 import  ReactDOM  from "react-dom/client";

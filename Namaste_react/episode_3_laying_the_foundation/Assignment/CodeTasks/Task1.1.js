@@ -1,4 +1,6 @@
 /**
+ *  CREATE THIS STRUCTURE USING REACT.CREATE ELEMENT
+ * 
  * <div className="title">
  *    <h1>I am H1 Tag</h1>
  *    <h2>I am H2 Tag</h2>

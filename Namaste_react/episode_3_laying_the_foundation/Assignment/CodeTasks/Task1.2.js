@@ -1,3 +1,10 @@
+
+/**
+ * TASK 1.2 :: CREATE FUNCTIONAL COMPONENT ,USE JSX , IMPLEMENT COMPONENT COMPOSITION ( call one component in another )
+ * 
+ */
+
+
 import React from 'react';
 import  ReactDOM  from "react-dom/client";
 
