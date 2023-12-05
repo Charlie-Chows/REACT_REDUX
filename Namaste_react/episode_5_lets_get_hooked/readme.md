@@ -7,6 +7,9 @@
     - Filter Button Functionality
         - onClick , filter method
         - UseState Hook
+    - Reconciliation (React Fiber)
+    - Diff Algorithm
+    - Virtual DOM , DOM
 
 
 
