@@ -4,6 +4,9 @@
     - Import/Export types
         - Named Import/Export
         - Default Import/Export
+    - Filter Button Functionality
+        - onClick , filter method
+        - UseState Hook
 
 
 
@@ -16,4 +19,6 @@
 
             Named Import/Export
                 - export const component
-                - import {component} from “path”;
+                - import {component} from “path”
+
+

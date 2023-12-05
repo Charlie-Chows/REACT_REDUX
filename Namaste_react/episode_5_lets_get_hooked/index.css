@@ -50,3 +50,8 @@
     
 }
  
+/* TOP RATED RESTAURANT BUTTON STYLING */
+.filter-btn{
+    margin: 10px;
+    cursor: pointer;
+}
