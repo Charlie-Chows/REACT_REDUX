@@ -55,3 +55,27 @@
     margin: 10px;
     cursor: pointer;
 }
+
+/* SHIMMER UI COMPONENT STYLING  */
+.shimmer-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shimmer-card{
+    margin: 20px;
+    width: 200px;
+    height: 400px;
+    background-color: #f0f0f0;
+    
+}
+
+.login{
+    padding: 0 20px;
+    margin: 15px;
+    cursor: pointer;
+}
+
+.filter{
+    display: flex;
+}

@@ -4,6 +4,7 @@ import Header from "./components/Header";
 import Body from "./components/Body";
 
 const AppLayout = ()=>{
+    // VIRTUAL DOM STRUCTURE OF BODY COMPONENT
     console.log(<Body />);
     return(
         <div>
