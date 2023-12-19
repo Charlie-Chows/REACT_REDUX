@@ -1,6 +1,7 @@
 import RestaurantCard from "./Restaurantcard";
 import { useEffect, useState } from "react";
 import ShimmerUI from "./ShimmerUI";
+import { Link } from "react-router-dom";
 
 const Body = () => {
     // it will also a render the default data
@@ -43,7 +44,7 @@ const Body = () => {
 
             <div className="res-container">
               {/* LOGIC TO DISPLAY CARDS IN BODY  */}
-               {filteredRestaurant.map((resPointer)=> (<RestaurantCard key={resPointer.info.id} resData={resPointer}/>))};
+               {filteredRestaurant.map((resPointer)=> (<Link key={resPointer.info.id} to={"/restaurants/" + resPointer.info.id}><RestaurantCard resData={resPointer}/></Link>))};
             </div>
         </div>
     );
